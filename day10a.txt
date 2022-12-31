@@ -1,0 +1,5 @@
+Day1:Basics of python
+Day2:Operators
+day3:Conditional Statements
+Day4:List
+Day5:Functions
